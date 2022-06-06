@@ -9,8 +9,10 @@
 *******************************
 ## About Me:
 Extensive experience in a service center as an engineer. Regularly attended trainings and refresher courses for the profession of a service engineer, including in English. Certified specialist in maintenance of printing equipment of world brands. But it's time for a career change.
+
+![000000164](https://user-images.githubusercontent.com/96920104/172249643-1658c8c9-36c2-4e3a-898f-7a7a676c363a.JPG)
 *******************************
-## Skills
+## Skills:
 * HTML
 * CSS
 *******************************
