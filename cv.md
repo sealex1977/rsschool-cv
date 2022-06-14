@@ -15,8 +15,8 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 ## Code Example:
 *I have no programming experience. That's why:*
 ### Hello World!
-
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -25,7 +25,7 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 	<title>Document</title>
 </head>
 <body>
-	Hello World!
+	<h1>Hello World!</h1>
 </body>
 </html>
 ```
