@@ -14,7 +14,7 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 * CSS
 ## Code Example:
 *I have no programming experience. That's why:*
-### Hello World!
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -29,10 +29,11 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 </body>
 </html>
 ```
+
 ## Experience:
 I have no work experience
 ## Education:
-Mykolaiv Marine University
+Admiral Makarov National University of Shipbuilding
 ## Languages:
 * Ukrainian
 * russian
