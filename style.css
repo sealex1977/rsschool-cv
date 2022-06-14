@@ -136,6 +136,16 @@ body {
     border-radius: 50%;
 }
 
+.code-text a {
+    color: cornflowerblue;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.code-text a:hover {
+    color: #000;
+}
+
 .languages-list {
     list-style: none;
 }
