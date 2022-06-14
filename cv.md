@@ -14,19 +14,21 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 * CSS
 ## Code Example:
 *I have no programming experience. That's why:*
-> Hello World!
-`<!DOCTYPE html>`
-`<html lang="en">`
-`<head>`
-	`<meta charset="UTF-8">`
-	`<meta http-equiv="X-UA-Compatible" content="IE=edge">`
-	`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
-	`<title>Document</title>`
-`</head>`
-`<body>`
-	`Hello World!`
-`</body>`
-`</html>`
+### Hello World!
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	Hello World!
+</body>
+</html>
+```
 ## Experience:
 I have no work experience
 ## Education:
