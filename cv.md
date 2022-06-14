@@ -14,7 +14,6 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 * CSS
 ## Code Example:
 *I have no programming experience. That's why:*
-
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -29,7 +28,6 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 </body>
 </html>
 ```
-
 ## Experience:
 I have no work experience
 ## Education:
