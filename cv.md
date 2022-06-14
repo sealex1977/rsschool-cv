@@ -15,8 +15,8 @@ Extensive experience in a service center as an engineer. Regularly attended trai
 ## Code Example:
 *I have no programming experience. That's why:*
 ### Hello World!
-```
-<!DOCTYPE html>
+
+```<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
