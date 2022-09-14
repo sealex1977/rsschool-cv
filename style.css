@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #000;
+    background-color: bisque;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: cornflowerblue;
+}
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+.nav-item a {
+    color: bisque;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.nav-item a:hover {
+    color: #000;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+    padding: 20px;
+}
+
+.section-title {
+    font-size: 24px;
+    line-height: 150%;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.profile-title {
+    font-size: 32px;
+    text-transform: capitalize;
+}
+
+.profile-img {
+    max-width: 100%;
+}
+
+.contacts-link {
+    line-height: 30px;
+    transition: .3s;
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.contacts-item {
+    position: relative;
+    padding-left: 30px;
+}
+
+.contacts-item::before {
+    content: "";
+    position: absolute;
+    top: 12px;
+    left: 0px;
+    width: 6px;
+    height: 6px; 
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.contacts-item a {
+    color: #000;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.contacts-item a:hover {
+    color: cornflowerblue;
+}
+
+.skills-list {
+    list-style: none;
+}
+
+.skills-item {
+    position: relative;
+    padding-left: 30px;
+}
+
+.skills-item::before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 6px;
+    height: 6px; 
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.code-text a {
+    color: cornflowerblue;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.code-text a:hover {
+    color: #000;
+}
+
+.languages-list {
+    list-style: none;
+}
+
+.languages-item {
+    position: relative;
+    padding-left: 30px;
+}
+
+.languages-item::before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 6px;
+    height: 6px; 
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.footer {
+    color: bisque;
+    background-color: cornflowerblue;
+}
+
+.footer-inner {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.rsschool-img {
+    width: 80px;
+}
+
+.github-img {
+    width: 80px;
+    
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
